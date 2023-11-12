@@ -4,27 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a4f7fef6-bafb-4a20-ba75-03a07eb52f39" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/Carta.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/Jogador.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/SacrificioEnum.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/criaturas/Abelha.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/criaturas/CanhaoDeVidro.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/criaturas/Esquilo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/criaturas/Lobo.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/classes/criaturas/Parede.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/template-acch.iml" afterDir="false" />
+    <list default="true" id="a4f7fef6-bafb-4a20-ba75-03a07eb52f39" name="Changes" comment="projeto">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,8 +68,17 @@
       <updated>1699725361443</updated>
       <workItem from="1699725362471" duration="88000" />
       <workItem from="1699725468496" duration="14822000" />
-      <workItem from="1699804159952" duration="6262000" />
+      <workItem from="1699804159952" duration="6769000" />
     </task>
+    <task id="LOCAL-00001" summary="projeto">
+      <option name="closed" value="true" />
+      <created>1699818418135</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1699818418135</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,5 +86,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="projeto" />
+    <option name="LAST_COMMIT_MESSAGE" value="projeto" />
   </component>
 </project>

@@ -4,6 +4,7 @@ import classes.SacrificioEnum
 import classes.criaturas.Abelha
 import classes.criaturas.CanhaoDeVidro
 import classes.criaturas.Lobo
+import classes.criaturas.Parede
 import kotlin.math.abs
 import kotlin.random.Random
 
@@ -11,13 +12,14 @@ fun main(args: Array<String>) {
     println("Digite seu nome:")
     val nome = readln()
 
-    val listaDeCartas = (0..2).toList()
+    val listaDeCartas = (0..3).toList()
     val baralho: MutableList<Carta> = mutableListOf()
     for (i in 1..10) {
         baralho.add(
             when (listaDeCartas.shuffled().first()) {
                 0 -> Abelha()
                 1 -> CanhaoDeVidro()
+                2 -> Parede()
                 else -> Lobo()
             }
         )
